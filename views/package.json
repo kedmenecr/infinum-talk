@@ -8,6 +8,6 @@
     "web:build": "views-morph . --as react-dom"
   },
   "devDependencies": {
-    "views-morph": "^0.7.3"
+    "views-morph": "^12.0.3"
   }
 }
